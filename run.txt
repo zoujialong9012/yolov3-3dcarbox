@@ -1,0 +1,7 @@
+source /home/cidi/apollodds/dds/third_party/apollo-platform/ros/install/ros_x86_64/setup.bash
+source devel_isolated/setup.bash
+export PYTHONPATH=/usr/local/lib/python2.7/dist-packages:/home/cidi/apollodds/dds/third_party/apollo-platform/ros/install/ros_x86_64/lib/python2.7/dist-packages
+
+sudo -HE env PATH=${PATH} LD_LIBRARY_PATH=${LD_LIBRARY_PATH} PYTHONPATH=${PYTHONPATH}
+sudo -HE env PATH=${PATH} LD_LIBRARY_PATH=${LD_LIBRARY_PATH} PYTHONPATH=${PYTHONPATH} python yolo3d2processros.py 
+

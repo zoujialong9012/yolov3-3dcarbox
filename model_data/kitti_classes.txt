@@ -1,0 +1,6 @@
+car
+truck
+van 
+tram
+pedestrian
+cyclist
