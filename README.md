@@ -15,4 +15,4 @@ http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d
 Download the 3 temporally preceding frames (left color) (36 GB)
 Download training labels of object data set (5 MB)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=QALsBJJyfgY)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=z7wwmVPn2LE)
